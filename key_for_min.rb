@@ -12,5 +12,5 @@ name_hash.each do |name, num|
   end
   
 end
-
+min_key
 end
